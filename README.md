@@ -10,7 +10,7 @@
 Transaction trade size = vol <br>
 transaction trade price = close <br> <br>
 I've created a temporary table which will have all values of the original table except date. <br>
-Instead of the original date, I've parsed it into two other columns - ##date_only(dd-mm-yyy) and time_only(hh:mm) <br>
+Instead of the original date, I've parsed it into two other columns - date_only(dd-mm-yyy) and time_only(hh:mm) <br>
 
 ### Input format:
 Date: 'dd-mm-yyyy' <br>
