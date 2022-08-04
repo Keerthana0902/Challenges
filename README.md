@@ -40,7 +40,7 @@ call Vol_Weighted_Avg('11-10-2010','09:00');
 Host name alias also considerd. <br>
 To run: ./question01.sh 
 ### Output:
-![Output](Output_screenshots/q1_Linux.png)
+![Output](Output_screenshots/q1_linux.png)
 
 ## Question 02
 
@@ -50,13 +50,13 @@ To run: ./question02.sh <br>
 
 Scroll up a bit of output to view both the 1st and second part of the output.:relaxed:
 ### Output:
-![Output](Output_screenshots/q2_sampleRows_Linux.png)
+![Output](Output_screenshots/q2_sampleRows_linux.png)
 
 ## Question 03
 
 To run: ./question03.sh 
 ### Output:
-![Output](Output_screenshots/q3_Linux.png)
+![Output](Output_screenshots/q3_linux.png)
 
 
 ## Have a greaatt day!:smile:
