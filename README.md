@@ -44,8 +44,8 @@ To run: ./question01.sh
 
 ## Question 02
 
-SymPriceQuan.csv file is just for reference and has symbols,price and quantity values without comma separated. <br>
-The output files for this question are "TradePriceVolume.tab" and "SymPriceQuantity.csv"(has comma separated values). <br>
+SymPriceQuan.csv file is just for reference. <br>
+#### The output files for this question are "TradePriceVolume.tab" and "SymPriceQuantity.csv"(has comma separated values). <br>
 To run: ./question02.sh <br>
 
 Scroll up a bit of output to view both the 1st and second part of the output.:relaxed:
