@@ -1,0 +1,380 @@
+Record Publish: GEWQ .Q
+  Type: Trade
+  wTradePrice | price | * | 0.25
+  wTradeVolume | quantity | * | 16
+Record Publish: GEWQ .X
+  Type: Trade
+  wTradePrice | price | * | 0.25
+  wTradeVolume | quantity | * | 84
+Record Publish: GEWQ .A
+  Type: Trade
+  wTradePrice | price | * | 0.25
+  wTradeVolume | quantity | * | 16
+Record Publish: GEWQ .W
+  Type: Trade
+  wTradePrice | price | * | 0.25
+  wTradeVolume | quantity | * | 100
+Record Publish: GEWQ .A
+  Type: Trade
+  wTradePrice | price | * | 0.25
+  wTradeVolume | quantity | * | 84
+Record Publish: GEWQ .B
+  Type: Trade
+  wTradePrice | price | * | 0.25
+  wTradeVolume | quantity | * | 100
+Record Publish: GEWQ .X
+  Type: Trade
+  wTradePrice | price | * | 0.25
+  wTradeVolume | quantity | * | 100
+Record Publish: GCZQ .W
+  Type: Trade
+  wTradePrice | price | * | 1.30
+  wTradeVolume | quantity | * | 9
+Record Publish: GEWQ .N
+  Type: Trade
+  wTradePrice | price | * | 0.25
+  wTradeVolume | quantity | * | 10
+Record Publish: GEWQ .N
+  Type: Trade
+  wTradePrice | price | * | 0.25
+  wTradeVolume | quantity | * | 20
+Record Publish: GEWQ .N
+  Type: Trade
+  wTradePrice | price | * | 0.25
+  wTradeVolume | quantity | * | 4
+Record Publish: GEWQ .N
+  Type: Trade
+  wTradePrice | price | * | 0.25
+  wTradeVolume | quantity | * | 50
+Record Publish: GEWQ .X
+  Type: Trade
+  wTradePrice | price | * | 0.25
+  wTradeVolume | quantity | * | 16
+Record Publish: GOPD .A
+  Type: Trade
+  wTradePrice | price | * | 1.10
+  wTradeVolume | quantity | * | 2
+Record Publish: GEWD .X
+  Type: Trade
+  wTradePrice | price | * | 0.10
+  wTradeVolume | quantity | * | 174
+Record Publish: GOPQ .W
+  Type: Trade
+  wTradePrice | price | * | 9.50
+  wTradeVolume | quantity | * | 1
+Record Publish: GOPP .Q
+  Type: Trade
+  wTradePrice | price | * | 0.61
+  wTradeVolume | quantity | * | 10
+Record Publish: GOPQ .Y
+  Type: Trade
+  wTradePrice | price | * | 4.32
+  wTradeVolume | quantity | * | 1
+Record Publish: GOPQ .Y
+  Type: Trade
+  wTradePrice | price | * | 6.42
+  wTradeVolume | quantity | * | 1
+Record Publish: GOPQ .Y
+  Type: Trade
+  wTradePrice | price | * | 2.75
+  wTradeVolume | quantity | * | 1
+Record Publish: GOPQ .Y
+  Type: Trade
+  wTradePrice | price | * | 2.75
+  wTradeVolume | quantity | * | 1
+Record Publish: GEE .X
+  Type: Trade
+  wTradePrice | price | * | 0.25
+  wTradeVolume | quantity | * | 100
+Record Publish: GPYD .Q
+  Type: Trade
+  wTradePrice | price | * | 26.45
+  wTradeVolume | quantity | * | 4
+Record Publish: GPYG .N
+  Type: Trade
+  wTradePrice | price | * | 7.80
+  wTradeVolume | quantity | * | 10
+Record Publish: GEWD .X
+  Type: Trade
+  wTradePrice | price | * | 0.96
+  wTradeVolume | quantity | * | 25
+Record Publish: GOPP .X
+  Type: Trade
+  wTradePrice | price | * | 0.10
+  wTradeVolume | quantity | * | 10
+Record Publish: GEWQ .Y
+  Type: Trade
+  wTradePrice | price | * | 0.25
+  wTradeVolume | quantity | * | 100
+Record Publish: GCZP .W
+  Type: Trade
+  wTradePrice | price | * | 0.71
+  wTradeVolume | quantity | * | 2
+Record Publish: GEWD .W
+  Type: Trade
+  wTradePrice | price | * | 0.10
+  wTradeVolume | quantity | * | 10
+Record Publish: GOPQ .Y
+  Type: Trade
+  wTradePrice | price | * | 2.75
+  wTradeVolume | quantity | * | 1
+Record Publish: GEWD .X
+  Type: Trade
+  wTradePrice | price | * | 0.10
+  wTradeVolume | quantity | * | 76
+Record Publish: GOPQ .Y
+  Type: Trade
+  wTradePrice | price | * | 9.70
+  wTradeVolume | quantity | * | 3
+Record Publish: GEWD .X
+  Type: Trade
+  wTradePrice | price | * | 0.11
+  wTradeVolume | quantity | * | 18
+Record Publish: GEWD .W
+  Type: Trade
+  wTradePrice | price | * | 0.11
+  wTradeVolume | quantity | * | 11
+Record Publish: GEWD .Y
+  Type: Trade
+  wTradePrice | price | * | 0.11
+  wTradeVolume | quantity | * | 11
+Record Publish: GCZP .N
+  Type: Trade
+  wTradePrice | price | * | 1.59
+  wTradeVolume | quantity | * | 5
+Record Publish: GCZP .N
+  Type: Trade
+  wTradePrice | price | * | 2.58
+  wTradeVolume | quantity | * | 10
+Record Publish: GOPQ .Y
+  Type: Trade
+  wTradePrice | price | * | 2.75
+  wTradeVolume | quantity | * | 6
+Record Publish: GOPP .A
+  Type: Trade
+  wTradePrice | price | * | 24.00
+  wTradeVolume | quantity | * | 1
+Record Publish: GOPQ .Y
+  Type: Trade
+  wTradePrice | price | * | 2.75
+  wTradeVolume | quantity | * | 1
+Record Publish: GOPD .Q
+  Type: Trade
+  wTradePrice | price | * | 0.14
+  wTradeVolume | quantity | * | 10
+Record Publish: GOPP .Y
+  Type: Trade
+  wTradePrice | price | * | 0.76
+  wTradeVolume | quantity | * | 2
+Record Publish: GOPP .Y
+  Type: Trade
+  wTradePrice | price | * | 0.12
+  wTradeVolume | quantity | * | 1
+Record Publish: GOPP .Y
+  Type: Trade
+  wTradePrice | price | * | 5.02
+  wTradeVolume | quantity | * | 1
+Record Publish: GPYP .Q
+  Type: Trade
+  wTradePrice | price | * | 0.24
+  wTradeVolume | quantity | * | 4
+Record Publish: GOPP .Q
+  Type: Trade
+  wTradePrice | price | * | 5.10
+  wTradeVolume | quantity | * | 2
+Record Publish: GOPQ .W
+  Type: Trade
+  wTradePrice | price | * | 6.50
+  wTradeVolume | quantity | * | 1
+Record Publish: GOPP .Y
+  Type: Trade
+  wTradePrice | price | * | 0.76
+  wTradeVolume | quantity | * | 4
+Record Publish: GOPP .Y
+  Type: Trade
+  wTradePrice | price | * | 0.12
+  wTradeVolume | quantity | * | 2
+Record Publish: GOPP .Y
+  Type: Trade
+  wTradePrice | price | * | 5.02
+  wTradeVolume | quantity | * | 2
+Record Publish: GOPP .Q
+  Type: Trade
+  wTradePrice | price | * | 0.10
+  wTradeVolume | quantity | * | 2
+Record Publish: GOPP .B
+  Type: Trade
+  wTradePrice | price | * | 0.75
+  wTradeVolume | quantity | * | 4
+Record Publish: GPYP .W
+  Type: Trade
+  wTradePrice | price | * | 0.24
+  wTradeVolume | quantity | * | 10
+Record Publish: GEWQ .A
+  Type: Trade
+  wTradePrice | price | * | 0.66
+  wTradeVolume | quantity | * | 4
+Record Publish: GOPE .W
+  Type: Trade
+  wTradePrice | price | * | 20.00
+  wTradeVolume | quantity | * | 6
+Record Publish: GOPE .W
+  Type: Trade
+  wTradePrice | price | * | 20.00
+  wTradeVolume | quantity | * | 4
+Record Publish: GEWU .Y
+  Type: Trade
+  wTradePrice | price | * | 1.38
+  wTradeVolume | quantity | * | 20
+Record Publish: GEWI .Y
+  Type: Trade
+  wTradePrice | price | * | 1.21
+  wTradeVolume | quantity | * | 20
+Record Publish: GMUE .A
+  Type: Trade
+  wTradePrice | price | * | 0.65
+  wTradeVolume | quantity | * | 2
+Record Publish: GOPD .W
+  Type: Trade
+  wTradePrice | price | * | 0.05
+  wTradeVolume | quantity | * | 1
+Record Publish: GPYP .X
+  Type: Trade
+  wTradePrice | price | * | 0.24
+  wTradeVolume | quantity | * | 1
+Record Publish: GOPI .W
+  Type: Trade
+  wTradePrice | price | * | 26.80
+  wTradeVolume | quantity | * | 1
+Record Publish: GOPD .B
+  Type: Trade
+  wTradePrice | price | * | 0.15
+  wTradeVolume | quantity | * | 9
+Record Publish: GOPD .B
+  Type: Trade
+  wTradePrice | price | * | 0.15
+  wTradeVolume | quantity | * | 1
+Record Publish: GOPP .A
+  Type: Trade
+  wTradePrice | price | * | 0.70
+  wTradeVolume | quantity | * | 4
+Record Publish: GPYQ .X
+  Type: Trade
+  wTradePrice | price | * | 2.16
+  wTradeVolume | quantity | * | 5
+Record Publish: GOPD .A
+  Type: Trade
+  wTradePrice | price | * | 16.00
+  wTradeVolume | quantity | * | 2
+Record Publish: GED .W
+  Type: Trade
+  wTradePrice | price | * | 0.01
+  wTradeVolume | quantity | * | 6
+Record Publish: GOPD .Q
+  Type: Trade
+  wTradePrice | price | * | 6.97
+  wTradeVolume | quantity | * | 1
+Record Publish: GEE .X
+  Type: Trade
+  wTradePrice | price | * | 0.25
+  wTradeVolume | quantity | * | 50
+Record Publish: GEWD .Y
+  Type: Trade
+  wTradePrice | price | * | 0.12
+  wTradeVolume | quantity | * | 14
+Record Publish: GOPQ .W
+  Type: Trade
+  wTradePrice | price | * | 18.20
+  wTradeVolume | quantity | * | 1
+Record Publish: GQRG .Y
+  Type: Trade
+  wTradePrice | price | * | 1.50
+  wTradeVolume | quantity | * | 1
+Record Publish: GPYE .Y
+  Type: Trade
+  wTradePrice | price | * | 4.50
+  wTradeVolume | quantity | * | 5
+Record Publish: GEWD .N
+  Type: Trade
+  wTradePrice | price | * | 0.96
+  wTradeVolume | quantity | * | 10
+Record Publish: GEWD .W
+  Type: Trade
+  wTradePrice | price | * | 0.11
+  wTradeVolume | quantity | * | 35
+Record Publish: GOPD .A
+  Type: Trade
+  wTradePrice | price | * | 1.05
+  wTradeVolume | quantity | * | 10
+Record Publish: GMEE .A
+  Type: Trade
+  wTradePrice | price | * | 2.55
+  wTradeVolume | quantity | * | 1
+Record Publish: GOPI .Y
+  Type: Trade
+  wTradePrice | price | * | 27.30
+  wTradeVolume | quantity | * | 3
+Record Publish: GNKD .Y
+  Type: Trade
+  wTradePrice | price | * | 0.20
+  wTradeVolume | quantity | * | 1
+Record Publish: GDXQ .A
+  Type: Trade
+  wTradePrice | price | * | 0.74
+  wTradeVolume | quantity | * | 6
+Record Publish: GDXQ .A
+  Type: Trade
+  wTradePrice | price | * | 0.74
+  wTradeVolume | quantity | * | 4
+Record Publish: GOPE .X
+  Type: Trade
+  wTradePrice | price | * | 7.90
+  wTradeVolume | quantity | * | 4
+Record Publish: GEWP .N
+  Type: Trade
+  wTradePrice | price | * | 0.16
+  wTradeVolume | quantity | * | 1
+Record Publish: GEWU .X
+  Type: Trade
+  wTradePrice | price | * | 0.17
+  wTradeVolume | quantity | * | 161
+Record Publish: GEWU .N
+  Type: Trade
+  wTradePrice | price | * | 0.17
+  wTradeVolume | quantity | * | 26
+Record Publish: GEWU .N
+  Type: Trade
+  wTradePrice | price | * | 0.17
+  wTradeVolume | quantity | * | 9
+Record Publish: GOPP .Q
+  Type: Trade
+  wTradePrice | price | * | 0.15
+  wTradeVolume | quantity | * | 1
+Record Publish: GOPD .A
+  Type: Trade
+  wTradePrice | price | * | 16.60
+  wTradeVolume | quantity | * | 1
+Record Publish: GOPF .A
+  Type: Trade
+  wTradePrice | price | * | 9.60
+  wTradeVolume | quantity | * | 5
+Record Publish: GCIE .Y
+  Type: Trade
+  wTradePrice | price | * | 1.00
+  wTradeVolume | quantity | * | 25
+Record Publish: GOPE .X
+  Type: Trade
+  wTradePrice | price | * | 20.30
+  wTradeVolume | quantity | * | 5
+Record Publish: GOPI .W
+  Type: Trade
+  wTradePrice | price | * | 36.20
+  wTradeVolume | quantity | * | 10
+Record Publish: GPYQ .Q
+  Type: Trade
+  wTradePrice | price | * | 5.38
+  wTradeVolume | quantity | * | 1
+Record Publish: GEWE .W
+  Type: Trade
+  wTradePrice | price | * | 0.59
+  wTradeVolume | quantity | * | 10
