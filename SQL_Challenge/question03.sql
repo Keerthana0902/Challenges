@@ -31,3 +31,5 @@ BEGIN
     DROP TEMPORARY TABLE Result;
     
 END //
+
+CALL Trading_range()
